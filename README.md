@@ -18,14 +18,11 @@
 
 <div align="left">
 
-| **Aspect** | **Details** |
-|---|---|
-| **👔 Title** | Data Scientist \| Data Analyst \| ML Engineer |
-| **🛠️ Tech Stack** | Python, SQL, Flask, MySQL, Machine Learning, Git |
-| **🚀 Launched Projects** | AI-Based Real Estate Pricing Engine — predicts housing prices using ML |
-| **🎓 Certifications** | Building expertise through hands-on projects |
-| **🔍 Current Status** | Actively job-seeking in Data Science / ML roles |
-| **🤝 Open To** | Data Science roles • Data Analyst roles • ML Engineer roles • ML Project Collaboration |
+**👋 Hi, I'm Mohammed Shoaib**
+
+I'm an aspiring Data Scientist passionate about transforming data into meaningful insights and building intelligent solutions using Machine Learning, Statistics, and Generative AI.
+
+I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and building projects that demonstrate practical business value.
 
 </div>
 
@@ -74,31 +71,6 @@
 
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShoaibCodes17&show_icons=true&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibCodes17&layout=compact&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&hide_border=false)
-
-<br/>
-
-![Streak Stats](https://streak-stats.demolab.com?user=ShoaibCodes17&theme=nord&border=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-<br/><br/>
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShoaibCodes17&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShoaibCodes17&theme=react-dark&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)
-
-</div>
-
-<br/>
 
 ## 🤝 Connect With Me
 
