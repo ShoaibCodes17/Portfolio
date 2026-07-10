@@ -10,8 +10,6 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShoaibCodes17&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ShoaibCodes17?color=58A6FF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
 
 </div>
 
@@ -74,7 +72,7 @@ const mohammedShoaib = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShoaibCodes17&show_icons=true&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide_border=false" width="48%" />
+'''<img src="https://github-readme-stats.vercel.app/api?username=ShoaibCodes17&show_icons=true&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide_border=false" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibCodes17&layout=compact&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&hide_border=false" width="48%" />
 
 <br/>
